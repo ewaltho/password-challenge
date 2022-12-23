@@ -25,7 +25,6 @@ function generatePassword () {
     alert("Please select at least one option.");
   } else {
   }
-    
   
 }
 
